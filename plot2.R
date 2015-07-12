@@ -1,6 +1,3 @@
-# Set the working directory.
-setwd("C:/Classes/COURSERA/2015 Summer/Exploratory Data Analysis/Projects/Project 01")
-
 # Load the data table library.
 library(data.table)
 
